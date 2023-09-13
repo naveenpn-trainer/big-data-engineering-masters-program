@@ -1,1 +1,1 @@
-# big-data-engineering-masters-program
+# Big Data Engineering Masters Program
