@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  naveenpn:
+    image: npnnaveenpn/data_science_and_engineering:v2
+    container_name: naveenpn
+    ports:
+      - "50070:50070"
+      - "8088:8088"
+      - "9090:9090"
+      - "8888:8888"
+      - "4040-4050:4040-4050"
+      - "7199:7199"
+    volumes:
+      - "../workdir:/home/naveenpn/workdir"
+    stdin_open: true
+    tty: true
+    command: bash
