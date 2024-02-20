@@ -3,16 +3,19 @@ setlocal enabledelayedexpansion
 
 :menu
 echo Which containers do you want to kill and remove?
-echo 1. Login to the existing cluster
+echo 1. Login to the existing cluster (master node)
 echo 2. Create a new cluster and proceed to log in.
-echo 3. None
-set /p choice=Enter your choice (1-2): 
+echo 3. Resolve ports are not available error
+set /p choice=Enter your choice (1-3): 
 
 if "%choice%"=="1" (
     goto compose_up
 ) else if "%choice%"=="2" (
     set containers=master slave1 slave2 slave3
     goto compose_up	
+) else if "%choice%"=="3" (
+    net stop winnat
+	net start winnat
 ) else (
     echo Invalid choice. Please try again.
     goto menu
