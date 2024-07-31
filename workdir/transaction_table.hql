@@ -16,4 +16,4 @@ CREATE TABLE IF NOT EXISTS transaction_records(
 ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
 STORED AS TextFile;
 
-LOAD DATA LOCAL INPATH '${hivevar:FILE_PATH}' INTO TABLE transaction_records
+LOAD DATA LOCAL INPATH '/home/naveenpn/workdir/Transactions.txt' INTO TABLE transaction_records

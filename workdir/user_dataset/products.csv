@@ -1,0 +1,7 @@
+product_id,product_name,category,price
+1001,Laptop,Electronics,1200.00
+1002,Smartphone,Electronics,800.00
+1003,Table,Home,150.00
+1004,Chair,Home,75.00
+1005,Headphones,Electronics,200.00
+1006,Bookshelf,Furniture,100.00

@@ -1,0 +1,21 @@
+col_id|col_dob|col_gender|col_state|col_city|col_asset|col_last_update
+1|07-05-1985|M|Karnataka|Bangalore|857111|30-08-2023
+2|07-06-1986|F|Karnataka|Mangalore|940431|30-08-2023
+3|07-07-1987|M|Tamil Nadu|Chennai|320671|30-08-2023
+4|07-08-1988|M|Karnataka|Mysore|435371|30-08-2023
+5|07-09-1989|F|Other||1521311|30-08-2023
+6|07-10-1990|M|Kerla|Kochi|981010|30-08-2023
+7|07-11-1991|M|AP|Amaravati|91344|30-08-2023
+8|07-12-1992|M|AP|Visakhapatnam|52010|30-08-2023
+9|07-01-1993|M|Telangana|Hyderabad|100208|30-08-2023
+10|07-02-1994|M|Maharashtra|Mumbai|907030|30-08-2023
+11|17-05-1985|F|Karnataka|Bangalore|30329
+12|10-05-1986|F|Karnataka|Bangalore|06405
+13|19-05-1987|M|Chhattisgarh|Raipur|29206
+14|17-05-1988|M|Odisha|Bhubaneshwar|55106
+15|13-05-1989|F|Chhattisgarh|Raigarh|97301
+16|12-05-1990|M|Gujarat|Ahmedabad|10309
+17|16-05-1991|M|Madhya Pradesh|Bhopal|06355
+18|19-05-1992|F|Other||37212
+19|11-05-1993|M|West Bengal|Kolkata|02138
+20|12-05-1994|F|Jharkhand|Ranchi|95660

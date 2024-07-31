@@ -31,12 +31,12 @@ services:
     ports:
       - "9902:9864"
       - "8042:8042"
-  slave3:
-    image: npnnaveenpn/hadoop-slave:v1
-    container_name: "slave3"
-    ports:
-      - "9903:9864"
-      - "8043:8042"
+  # slave3:
+    # image: npnnaveenpn/hadoop-slave:v1
+    # container_name: "slave3"
+    # ports:
+      # - "9903:9864"
+      # - "8043:8042"
   # slave4:
   #   image: npnnaveenpn/hadoop-slave:v1
   #   container_name: "slave4"

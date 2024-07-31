@@ -1,0 +1,6 @@
+customer_id,customer_name,email,address,dob
+101,John Doe,john@example.com,"123 Main St, Cityville, CountryA",1985-05-11
+102,Jane Smith,jane@example.com,"456 Oak St, Townsville, CountryB",1986-06-12
+103,Bob Johnson,bob@example.com,"101 Cedar St, Hamletsville, CountryD",1987-07-21
+104,Alice Brown,alice@example.com,"789 Pine St, Villagetown, CountryC",1988-08-24
+105,Charlie White,charlie@example.com,"202 Elm St, Countryside, CountryE",1989-09-25

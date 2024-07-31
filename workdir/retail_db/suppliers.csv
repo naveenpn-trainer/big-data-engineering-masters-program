@@ -1,0 +1,6 @@
+supplier_id,supplier_name,contact_name,contact_email,contact_phone,address
+1,Supplier_A,John Doe,supplierA@example.com,555-123-4567,123 Supplier St
+2,Supplier_B,Jane Smith,supplierB@example.com,555-987-6543,456 Supplier Rd
+3,Supplier_C,Bob Johnson,supplierC@example.com,555-789-0123,789 Supplier Ave
+4,Supplier_D,Alice Brown,supplierD@example.com,555-234-5678,234 Supplier Blvd
+5,Supplier_E,David Lee,supplierE@example.com,555-345-6789,567 Supplier Ln

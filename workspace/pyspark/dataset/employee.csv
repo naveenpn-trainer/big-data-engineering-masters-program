@@ -1,0 +1,11 @@
+col_id|col_name|col_exp|col_gen|col_dob|col_company|col_desig|col_doj|col_skills|col_previous_expected_salary
+101|'Agastya'|1|M|1987-01-22|Infosys|Developer|21-01-2015|'Hadoop,PySpark,Azure'|'1950000,1600000'
+102|'Acyuta'|2|F|1987-03-29|TCS|Team Lead|21-01-2016|'C,C++,Java'|'1150000,1500000'
+103|'Anuvrata'|1|M|1987-01-22|Infosys|Developer|21-01-2017|'Java,Python,Hadoop'|'1250000,1300000'
+|'Bhavika'|6|F|1987-01-22|Infosys|Team lead|21-01-2015|'Hadoop,PySpark,Kafka'|
+105|'Chitragandha'||M|1987-01-22|CTS|Developer||'C,C++,Java'|'1200000,1400000'
+106|'Hritika'|9|F|1987-01-22|Cisco|Developer|21-01-2016|'C,C++,Java'|'950000,1300000'
+107|'Jigyasa'|12|M|1987-01-22|Infosys|Team Lead|21-01-2005|'Hadoop,PySpark,Kafka'|'200000,2100000'
+108|'Kaveri'|4|F|1987-01-22|cisco|R&D Engineer|21-01-2015|'C,PySpark,Azure,AWS'|'3050000,2500000'
+109||8|M|1987-01-22||Developer|21-01-2008|'C,C++,Java'|'1050000,1100000'
+110|'Vin'||T|1987-01-22|CTS|Team Lead|21-01-2020|'Hadoop,PySpark,Kafka,Kafka'|'1550000,1400000'
