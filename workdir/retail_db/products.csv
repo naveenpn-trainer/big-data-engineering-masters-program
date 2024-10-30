@@ -1,6 +1,11 @@
-productid,productname,categoryid,price
-1,Laptop,1,800
-2,Smartphone,2,500
-3,Headphones,3,50
-4,Tablet,1,300
-5,Smartwatch,2,200
+"productid"|"productname"|"categoryid"|"price"
+1|Laptop|1|1200
+2|Smartphone|1|800
+3|TV|1|600
+4|T-shirt|2|20
+5|Jeans|2|50
+6|Microwave|3|100
+7|Refrigerator|3|1500
+8|Washing Machine|3|700
+9|Jacket|2|120
+10|Headphones|1|150

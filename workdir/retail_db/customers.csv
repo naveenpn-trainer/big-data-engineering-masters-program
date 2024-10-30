@@ -1,6 +1,21 @@
-customer_id,customer_name,email,address,dob
-101,John Doe,john@example.com,"123 Main St, Cityville, CountryA",1985-05-11
-102,Jane Smith,jane@example.com,"456 Oak St, Townsville, CountryB",1986-06-12
-103,Bob Johnson,bob@example.com,"101 Cedar St, Hamletsville, CountryD",1987-07-21
-104,Alice Brown,alice@example.com,"789 Pine St, Villagetown, CountryC",1988-08-24
-105,Charlie White,charlie@example.com,"202 Elm St, Countryside, CountryE",1989-09-25
+"customer_id"|"customer_name"|"dob"|"email"|"gender"|"country"|"region"|"city"|"asset"|"marital_status"
+1|Alice Johnson|"1987-03-15"|alice.johnson@example.com|Female|USA|California|Los Angeles|75000|Single
+2|Bob Williams|"1980-11-23"|bob.williams@example.com|Male|Canada|Ontario|Toronto|62000|Married
+3|Catherine Davis|"1992-07-09"|catherine.davis@example.com|Female|UK|London|London|68000|Single
+4|David Harris|"1985-12-01"|david.harris@example.com|Male|Australia|New South Wales|Sydney|82000|Married
+5|Eva Martinez|"1990-04-10"|eva.martinez@example.com|Female|USA|Texas|Houston|70000|Single
+6|Frank Thompson|"1983-05-05"|frank.thompson@example.com|Male|Canada|British Columbia|Vancouver|90000|Married
+7|Grace Lee|"1991-09-14"|grace.lee@example.com|Female|USA|New York|New York City|60000|Single
+8|Henry Clark|"1978-02-20"|henry.clark@example.com|Male|UK|Manchester|Manchester|82000|Married
+9|Isabella Young|"1988-08-30"|isabella.young@example.com|Female|Australia|Victoria|Melbourne|71000|Single
+10|James Walker|"1982-11-12"|james.walker@example.com|Male|USA|Florida|Miami|93000|Married
+11|Katherine Hill|"1994-01-25"|katherine.hill@example.com|Female|Canada|Quebec|Montreal|65000|Single
+12|Liam Baker|"1979-06-08"|liam.baker@example.com|Male|UK|Scotland|Edinburgh|88000|Married
+13|Mia Carter|"1986-12-19"|mia.carter@example.com|Female|Australia|Queensland|Brisbane|72000|Married
+14|Noah Scott|"1984-04-15"|noah.scott@example.com|Male|USA|California|San Francisco|76000|Single
+15|Olivia Green|"1991-07-22"|olivia.green@example.com|Female|Canada|Ontario|Ottawa|59000|Single
+16|Paul Adams|"1983-03-03"|paul.adams@example.com|Male|UK|Wales|Cardiff|87000|Married
+17|Quinn Nelson|"1995-10-13"|quinn.nelson@example.com|Female|Australia|South Australia|Adelaide|78000|Single
+18|Ryan Cooper|"1980-09-07"|ryan.cooper@example.com|Male|USA|Nevada|Las Vegas|84000|Married
+19|Sophia King|"1987-02-17"|sophia.king@example.com|Female|Canada|Alberta|Calgary|65000|Single
+20|Thomas Wright|"1989-11-11"|thomas.wright@example.com|Male|UK|England|Birmingham|91000|Married

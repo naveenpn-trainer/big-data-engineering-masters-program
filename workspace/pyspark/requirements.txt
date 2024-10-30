@@ -1,3 +1,1 @@
-pyspark==2.4.6
-pyspark-stubs==2.4.0.post2
-#kafka-python
+pyspark==3.2.4

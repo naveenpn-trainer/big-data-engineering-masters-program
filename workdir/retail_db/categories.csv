@@ -1,4 +1,4 @@
-category_id,category_name
-1,Electronics
-2,Mobile Devices
-3,Accessories
+"category_id"|"category_name"
+1|Electronics
+2|Clothing
+3|Home Appliances
