@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "age": 0,
+    "gender": "M",
+    "designation": "technician",
+    "salary": 85711
+},{
+    "id": 2,
+    "age": 53,
+    "gender": "F",
+    "designation": "other",
+    "salary": 94043
+}]

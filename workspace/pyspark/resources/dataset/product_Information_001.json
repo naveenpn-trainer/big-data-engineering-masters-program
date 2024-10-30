@@ -1,0 +1,278 @@
+[{
+        "product_id": "789013",
+        "name": "Smartwatch",
+        "brand": "XYZ",
+        "price": 199.99,
+        "details": {
+            "screen": {
+                "size": "15.6 inches",
+                "resolution": "1920x1080 Full HD",
+                "panel_type": "IPS"
+            },
+            "processor": {
+                "brand": "Intel",
+                "model": "Core i7-10750H",
+                "clock_speed": "2.60 GHz",
+                "cores": 6,
+                "threads": 12,
+                "cache": "12 MB"
+            },
+            "memory": {
+                "type": "DDR4",
+                "size": "16 GB",
+                "speed": "2666 MHz"
+            },
+            "storage": {
+                "type": "SSD",
+                "capacity": "512 GB",
+                "interface": "NVMe PCIe"
+            },
+            "graphics": {
+                "brand": "NVIDIA",
+                "model": "GeForce RTX 2060",
+                "memory": "6 GB GDDR6"
+            },
+            "battery": {
+                "type": "Lithium-ion",
+                "capacity": "60 Wh",
+                "life": "Up to 8 hours"
+            },
+            "features": ["Heart Rate Monitor", "Sleep Tracker", "Fitness Tracker"]
+        },
+        "reviews": [{
+                "username": "user6",
+                "rating": 4.5,
+                "comment": "Great features and battery life."
+            }, {
+                "username": "user7",
+                "rating": 4,
+                "comment": "Good value for money."
+            }
+        ],
+        "sellers": ["Seller 01", "Seller 02"]
+    }, {
+        "product_id": "789014",
+        "name": "Wireless Earbuds",
+        "brand": "ABC",
+        "price": 79.99,
+        "details": {
+            "screen": {
+                "size": "6.5 inches",
+                "type": "AMOLED"
+            },
+            "camera": {
+                "primary": "12 MP",
+                "secondary": "8 MP"
+            },
+            "storage": {
+                "internal": "128 GB",
+                "external": "Expandable up to 256 GB",
+                "features": ["Heart Rate Monitor", "Sleep Tracker", "Fitness Tracker"]
+            },
+            "connectivity": "Bluetooth 5.0"
+        },
+        "reviews": [{
+                "username": "user8",
+                "rating": 4,
+                "comment": "Good sound quality and comfortable fit."
+            }, {
+                "username": "user9",
+                "rating": 3.5,
+                "comment": "Decent battery life but connectivity issues sometimes."
+            }
+        ],
+        "sellers": ["Seller 01", "Seller 02"]
+    }, {
+        "product_id": "789015",
+        "name": "Laptop",
+        "brand": "DEF",
+        "price": 1299.99,
+        "details": {
+            "screen": {
+                "size": "14 inches",
+                "resolution": "2560x1440 QHD",
+                "panel_type": "OLED"
+            },
+            "processor": {
+                "brand": "AMD",
+                "model": "Ryzen 9 5900HS",
+                "clock_speed": "3.00 GHz",
+                "cores": 8,
+                "threads": 16,
+                "cache": "16 MB"
+            },
+            "memory": {
+                "type": "DDR4",
+                "size": "32 GB",
+                "speed": "3200 MHz"
+            },
+            "storage": {
+                "type": "SSD",
+                "capacity": "1 TB",
+                "interface": "NVMe PCIe"
+            },
+            "graphics": {
+                "brand": "AMD",
+                "model": "Radeon RX 6800M",
+                "memory": "12 GB GDDR6"
+            },
+            "battery": {
+                "type": "Lithium-ion",
+                "capacity": "70 Wh",
+                "life": "Up to 10 hours"
+            },
+            "features": ["Backlit Keyboard", "Fingerprint Reader", "Wi-Fi 6"]
+        },
+        "reviews": [
+            {
+                "username": "user10",
+                "rating": 4.7,
+                "comment": "Excellent performance and display quality."
+            },
+            {
+                "username": "user11",
+                "rating": 4.3,
+                "comment": "Great for gaming and productivity."
+            }
+        ],
+        "sellers": ["Seller 03", "Seller 04"]
+    },
+    {
+        "product_id": "789016",
+        "name": "Smartphone",
+        "brand": "GHI",
+        "price": 999.99,
+        "details": {
+            "screen": {
+                "size": "6.7 inches",
+                "resolution": "3200x1440",
+                "type": "AMOLED"
+            },
+            "processor": {
+                "brand": "Qualcomm",
+                "model": "Snapdragon 888",
+                "clock_speed": "2.84 GHz",
+                "cores": 8
+            },
+            "memory": {
+                "type": "LPDDR5",
+                "size": "12 GB"
+            },
+            "storage": {
+                "internal": "256 GB",
+                "external": "Expandable up to 1 TB"
+            },
+            "camera": {
+                "primary": "108 MP",
+                "secondary": "12 MP"
+            },
+            "battery": {
+                "type": "Lithium-ion",
+                "capacity": "4500 mAh",
+                "life": "Up to 24 hours"
+            },
+            "features": ["5G", "Wireless Charging", "Water Resistant"]
+        },
+        "reviews": [
+            {
+                "username": "user12",
+                "rating": 4.8,
+                "comment": "Amazing camera and smooth performance."
+            },
+            {
+                "username": "user13",
+                "rating": 4.5,
+                "comment": "Fast and responsive with great battery life."
+            }
+        ],
+        "sellers": ["Seller 01", "Seller 05"]
+    },
+    {
+        "product_id": "789017",
+        "name": "Tablet",
+        "brand": "JKL",
+        "price": 499.99,
+        "details": {
+            "screen": {
+                "size": "10.5 inches",
+                "resolution": "1920x1200",
+                "panel_type": "LCD"
+            },
+            "processor": {
+                "brand": "Apple",
+                "model": "A14 Bionic",
+                "clock_speed": "2.99 GHz",
+                "cores": 6
+            },
+            "memory": {
+                "type": "LPDDR4X",
+                "size": "6 GB"
+            },
+            "storage": {
+                "internal": "128 GB",
+                "external": "Expandable up to 512 GB"
+            },
+            "battery": {
+                "type": "Lithium-polymer",
+                "capacity": "7500 mAh",
+                "life": "Up to 12 hours"
+            },
+            "features": ["Stylus Support", "Face ID", "USB-C"]
+        },
+        "reviews": [
+            {
+                "username": "user14",
+                "rating": 4.6,
+                "comment": "Perfect for media consumption and productivity."
+            },
+            {
+                "username": "user15",
+                "rating": 4.2,
+                "comment": "Great performance and battery life."
+            }
+        ],
+        "sellers": ["Seller 02", "Seller 06"]
+    },
+    {
+        "product_id": "789018",
+        "name": "Gaming Console",
+        "brand": "MNO",
+        "price": 499.99,
+        "details": {
+            "processor": {
+                "brand": "AMD",
+                "model": "Zen 2",
+                "clock_speed": "3.6 GHz",
+                "cores": 8
+            },
+            "memory": {
+                "type": "GDDR6",
+                "size": "16 GB"
+            },
+            "storage": {
+                "type": "SSD",
+                "capacity": "1 TB",
+                "interface": "NVMe"
+            },
+            "graphics": {
+                "brand": "AMD",
+                "model": "RDNA 2",
+                "memory": "10 GB"
+            },
+            "connectivity": ["Wi-Fi 6", "Bluetooth 5.1", "Ethernet"]
+        },
+        "reviews": [
+            {
+                "username": "user16",
+                "rating": 4.9,
+                "comment": "Incredible graphics and performance."
+            },
+            {
+                "username": "user17",
+                "rating": 4.8,
+                "comment": "A must-have for serious gamers."
+            }
+        ],
+        "sellers": ["Seller 03", "Seller 07", "Seller 08"]
+    }
+]
