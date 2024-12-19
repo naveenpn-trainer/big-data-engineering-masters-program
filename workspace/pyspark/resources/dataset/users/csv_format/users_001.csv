@@ -2,7 +2,7 @@ id,age,gen,designation,salary
 1,26,M,Technician,85711
 2,53,F,Other,94043
 3,23,M,Writer,32067
-4,26,M,Technician,43537
+4,26,M,technician,43537
 5,33,F,Other,15213
 6,42,M,Cheif Executive Officer,98101
 7,57,M,Administrator,91344
@@ -55,7 +55,7 @@ id,age,gen,designation,salary
 54,22,M,Cheif Executive Officer,66315
 55,37,M,Programmer,01331
 56,25,M,Librarian,46260
-57,16,M,Cheif Cheif Executive Officer Officer,84010
+57,16,M,Cheif Executive Officer,84010
 58,27,M,Programmer,52246
 59,49,M,Educator,08403
 60,50,M,healthcare,06472
